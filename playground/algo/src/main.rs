@@ -1,6 +1,5 @@
-mod static_arrays;
-mod dynamic_arrays;
-
+mod m1_static_arrays;
+mod m2_dynamic_arrays;
 fn main() {
     println!("Hello, world!");
     /*
