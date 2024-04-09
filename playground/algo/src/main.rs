@@ -1,5 +1,7 @@
 mod m1_static_arrays;
 mod m2_dynamic_arrays;
+mod m3_stack;
+
 fn main() {
     println!("Hello, world!");
     /*

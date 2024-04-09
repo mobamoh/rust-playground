@@ -1,6 +1,5 @@
-workspace = { members = ["playground/algo", "playground/leetcode"] }
 [package]
-name = "rust-playground"
+name = "leetcode"
 version = "0.1.0"
 edition = "2021"
 
